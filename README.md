@@ -1,4 +1,4 @@
-<h1 align="center">Desenvolver o front-end do site utilizando a estrutura do framework angular/h1>
+<h1 align="center">Desenvolver o front-end do site utilizando a estrutura do framework angular</h1>
 
 <p align="center">Project made using Angular by <b>Sheyenne de Morais Carvalho</b>
 
